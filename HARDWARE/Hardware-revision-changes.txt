@@ -1,0 +1,11 @@
+Hardware revision A
+
+Initial release
+
+---
+
+Hardware revision A1
+
+1. U3 changed from RP2350B to RP2350B-A4
+
+---
